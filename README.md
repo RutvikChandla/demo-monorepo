@@ -2,7 +2,9 @@
 
 ## Run Cypress Browserstack
 
-1. Change your creds in browserstack.json
+Change your creds in browserstack.json
+
+https://github.com/RutvikChandla/demo-monorepo/blob/0052b8bb2325a3bf62d18198a897787b5e19a5cb/browserstack.json#L2-L5
 
 Then run below commands to run cypress tests on browserstack
 ```sh
