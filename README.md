@@ -2,7 +2,12 @@
 
 ## Run Cypress Browserstack
 
+1. Change your creds in browserstack.json
+
+Then run below commands to run cypress tests on browserstack
 ```sh
-npm install --save-dev browserstack-cypress-cli
+nvm install 20
+nvm use 20
+npm install
 browserstack-cypress run
 ```
